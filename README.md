@@ -1,2 +1,5 @@
-# Easy-Chat-Application
-Chat Application (SocketIO library using NodeJS)
+**Chat Application (SocketIO library using NodeJS)**
+
+## Installation
+
+    $ npm install easy-chat-app
