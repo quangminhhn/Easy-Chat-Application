@@ -1,0 +1,16 @@
+{
+    "name": "easy-chat-app",
+    "version": "1.0.0",
+    "description": "Chat Application (SocketIO library using NodeJS)",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node server.js"
+    },
+    "author": "Mehmet Coşkun",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.17.1",
+        "socket.io": "^2.2.0"
+    }
+}
