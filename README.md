@@ -2,4 +2,4 @@
 
 ## Installation
 
-    $ npm install easy-chat-app
+    $ npm install
